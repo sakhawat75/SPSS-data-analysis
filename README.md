@@ -2,7 +2,7 @@
 ---
 
 ## Team Research Group 65
-Goru member details
+Group member details
 
 1)Dhanesh Nilesh kotadiya    -- 18060499
 
