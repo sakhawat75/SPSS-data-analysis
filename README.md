@@ -7,8 +7,10 @@ When you're done, you can delete the content in this README and update the file 
 ---
 
 ## Team Research Group 65
----Dhanesh Nilesh kotadiya-18060499
----Heena Mohammedhanif Shaikh-17072501 
----Md Sakhawat Hussain-18051789
----Ramjot Kaur-18051789
----Kamalpreet Kaur-18061033
+Goru member details
+
+1)Dhanesh Nilesh kotadiya    -18060499
+2)Heena Mohammedhanif Shaikh -17072501 
+3)Md Sakhawat Hussain        -18051789
+4)Ramjot Kaur                -18051789
+5)Kamalpreet Kaur            -18061033
