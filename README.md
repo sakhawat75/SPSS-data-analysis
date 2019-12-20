@@ -1,17 +1,13 @@
-##Group member information
----
+#Group: Coursework 65
 
-## Team Research Group 65
-Group member details
+##Module Title: Team Research and Development Project
+## Module Code: 7COM1079
 
-1)Dhanesh Nilesh kotadiya    -- 18060499
+#Group Member Details
 
-2)Heena Mohammedhanif Shaikh -- 17072501 
-
-3)Md Sakhawat Hussain        -- 18020229
-
-4)Ramjot Kaur                -- 18051789
-
-5)Kamalpreet Kaur            -- 18061033
-
----
+#Student ID Number and 	Full name
+17072501	- Heena Mohammedhanif Shaikh 
+18020229	- Md Sakhawat Hussain
+18051789	- Ramjot Kaur
+18060499	- Dhanesh Nilesh Kotadiya 
+18061033	- Kamalpreet Kaur
